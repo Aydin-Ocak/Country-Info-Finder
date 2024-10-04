@@ -1,4 +1,4 @@
-# Ülke Bilgi Bulucu
+# Country Info Finder
 
 Bu proje, REST Countries API kullanarak girilen bir ülkenin bilgilerini ve varsa komşu ülkelerini gösteren basit bir web uygulamasıdır.
 
